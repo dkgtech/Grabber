@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629204204691",
+    "project_id": "grabber-77dfa",
+    "storage_bucket": "grabber-77dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629204204691:android:1eec01f613f1fa494ba166",
+        "android_client_info": {
+          "package_name": "com.example.grabber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLQMivazTkYlKiREZ8fEm9vdv4GihQsz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
